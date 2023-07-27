@@ -1,4 +1,11 @@
-# CM-project
+# CM-project 🎓
+
+---
+Members of the group:
+- [Luca de Martino](https://github.com/luca-demartino)
+- [Raffaele Villani](https://github.com/vlnraf)
+---
+
 This repo implements 2 algorithms, the gradient descent and the conjugate gradient in order to solve the problem of estimating the  2-norm matrix as an uncostrained optimization problem.
 
 # Prerequisites
